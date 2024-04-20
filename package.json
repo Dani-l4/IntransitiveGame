@@ -1,0 +1,17 @@
+{
+  "name": "intransitive_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js rock paper scissors lizard spock"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table3": "^0.9.0",
+    "console-read-write": "^0.1.1",
+    "underscore": "^1.13.6",
+    "yallist": "^5.0.0"
+  }
+}
